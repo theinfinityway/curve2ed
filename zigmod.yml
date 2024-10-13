@@ -1,0 +1,6 @@
+id: 33v7idu40mprs4lxgy570ek090fx8l9cqoshobncdlcp23aq
+name: curve2ed
+main: src/main.zig
+license: MIT
+description: Curve25519 <-> Edwards25519 converter
+dependencies:
